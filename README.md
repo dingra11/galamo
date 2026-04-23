@@ -33,6 +33,7 @@ We welcome contributions from the community! Please follow our [Code of Conduct]
 ## Acknowledging and Citing
 Contact: astrodingra@gmail.com
 (maniscript under making)
+Developer: Jashanpreet Singh Dingra
 ## Supporting the Project
 
 
